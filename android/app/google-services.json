@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "418963151413",
+    "firebase_url": "https://learning-7f844.firebaseio.com",
+    "project_id": "learning-7f844",
+    "storage_bucket": "learning-7f844.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418963151413:android:afb8be4c6a6251d9936f7c",
+        "android_client_info": {
+          "package_name": "com.example.merit_coaching_app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418963151413-u55mabq7493u7raav4ff6a13ej11qbt7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.merit_coaching_app1",
+            "certificate_hash": "33467445285e7071659a6754062ac22910237b67"
+          }
+        },
+        {
+          "client_id": "418963151413-mmiehftb6vtkue2vg5b7qr0tead3lpfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqGqiEK1CHkypprTWNORqsrAG4j7rTHD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418963151413-mmiehftb6vtkue2vg5b7qr0tead3lpfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
